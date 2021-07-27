@@ -44,7 +44,7 @@ public static void main(String[] args) {
 			}
 			else if(velha.getCurrentPlayer() > 9) {
 				winner = true;
-				System.out.println("IMPATE");
+				System.out.println("EMPATE");
 			}
 		}
 	}
